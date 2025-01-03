@@ -20,8 +20,8 @@ Currently, I am involved in various projects and internships, including developi
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..
 - 💼 I’m pursuing a Bachelor's degree in Systems and Biomedical Engineering at Cairo University with an expected graduation in 2025.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 You can reach me via email at [mahmoud.mohamed.ali@gmail.com](mailto:mahmoud.mohamed.ali@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1SKgZ6IcEMG6MUuMhlHWihpc7xgwPUs6d/view?usp=sharing) to get more info.
+- 📫 You can reach me via email at [mahmoud.m.abdelaty02@gmail.com](mailto:mahmoud.m.abdelaty02@gmail.com).
+- 📝 See my [Resume](https://drive.google.com/file/d/1RT1j5eyjO1Z02aScFdnBk__pqbtF6YKq/view?usp=sharing) to get more info.
 
 
 <!--horizontal divider(gradiant)-->
