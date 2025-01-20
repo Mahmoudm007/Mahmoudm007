@@ -28,6 +28,8 @@ Currently, I am involved in various projects and internships, including developi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+[![Mahmoud's profile views](https://u8views.com/api/v1/github/profiles/101353088/views/day-week-month-total-count.svg)](https://u8views.com/github/Mahmoudm007)
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -98,8 +100,6 @@ Currently, I am involved in various projects and internships, including developi
   
 </p>
 
-
-[![Mahmoud's profile views](https://u8views.com/api/v1/github/profiles/101353088/views/day-week-month-total-count.svg)](https://u8views.com/github/Mahmoudm007)
 
 <!--profile visit count-->
 <div align="center">
