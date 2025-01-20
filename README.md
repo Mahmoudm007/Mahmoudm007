@@ -99,7 +99,7 @@ Currently, I am involved in various projects and internships, including developi
 </p>
 
 
-
+[![Mahmoud's profile views](https://u8views.com/api/v1/github/profiles/101353088/views/day-week-month-total-count.svg)](https://u8views.com/github/Mahmoudm007)
 
 <!--profile visit count-->
 <div align="center">
