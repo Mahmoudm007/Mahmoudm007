@@ -4,7 +4,7 @@
 <br />
 <br />
 
-Hi there, I'm **Mahmoud Mohamed Ali**, a **Biomedical Engineer** with a diverse skill set ranging from software development to biomedical engineering 🚀.
+Hi there, I'm **Mahmoud Mohamed Abdelaty**, a **Biomedical Engineer** with a diverse skill set ranging from software development to biomedical engineering 🚀.
 
 Currently, I am involved in various projects and internships, including developing a risk management system for medical devices, and creating innovative applications like a DICOM-Visualizer and an image mixer using PyQt5.
 
@@ -16,8 +16,6 @@ Currently, I am involved in various projects and internships, including developi
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on a Risk Management System and developing various biomedical and software projects.
-- 🌱 I’m currently learning Deep Reinforcement Learning
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..
 - 💼 I’m pursuing a Bachelor's degree in Systems and Biomedical Engineering at Cairo University with an expected graduation in 2025.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 You can reach me via email at [mahmoud.m.abdelaty02@gmail.com](mailto:mahmoud.m.abdelaty02@gmail.com).
