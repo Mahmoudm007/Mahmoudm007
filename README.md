@@ -99,7 +99,5 @@ Currently, I am involved in various projects and internships, including developi
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoudm007&show_icons=true&bg_color=00000000)
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
