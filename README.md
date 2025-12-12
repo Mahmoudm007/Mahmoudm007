@@ -12,7 +12,6 @@ Hi there, I'm **Mahmoud Abdelaty**, a **Biomedical Engineer** with a diverse ski
 - 👨🏽‍💻 I’m currently working as an AI Engineer @ EzzMedical Industries Company, the first Egyptian company to develop and produce ICU Ventilator (EZVent).
 - 🎓 I hold a BSc. degree in Systems and Biomedical Engineering from Cairo University, Class of 2025. 
 - 💡 My graduation project focused on developing a **real-time AI system** for the early detection of **Autism Spectrum Disorder(ASD)** in toddlers (15–30 months). The system analyzed visual cues such as **Eye Contact**, **Gaze Estimation**, **Facial Expressions**, **Head Pose Stability**, **Stereotypical Behavior**, **Graphomotor Patterns**, **Social Interactions**, **Morphological Anomalies**, **Attention Patterns**,and **Blinking Rate** using computer vision and deep learning techniques — aiming to support early and accessible ASD screening.
-- 🚗 Currently, I am pursuing a MSc. in Transportation Engineering department @ the University of Alberta.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 You can reach me via email at [mahmoud.m.abdelaty02@gmail.com](mailto:mahmoud.m.abdelaty02@gmail.com).
 - 📝 See my [CV](https://drive.google.com/file/d/1J9I1pO93dpGXOyVwIp0ylQnhZH50dExT/view?usp=sharing) to get more info.
